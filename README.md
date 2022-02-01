@@ -15,11 +15,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="proffy" src="https://github.com/rogersene/plataformaEstudosProffy/blob/master/public/images/mockup.png" width="100%">
-</p>
-
-
 
 ## 🚀 Tecnologias
 
@@ -41,4 +36,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 As postagens são feitas pelo painel do Prismic CMS e integradas diretamente pelo front.
 
 ## :flower_playing_cards: Projeto
+
+
+<p align="center">
+  <img alt="Home" src="https://github.com/rogersene/IgNews/blob/master/public/images/Layout/Ignews%20Home.png" width="40%">
+</p>
+
+
 
