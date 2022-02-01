@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img alt="IgNews" src="https://github.com/rogersene/IgNews/tree/master/public/images/logo.png">
+   <img alt="IgNews" src="https://github.com/rogersene/IgNews/blob/master/public/images/logo.png">
 </h1>
 
    <p align="center">
