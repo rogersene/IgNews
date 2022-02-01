@@ -1,9 +1,9 @@
 <h1 align="center">
-   <img alt="IgNews" src="https://github.com/rogersene/IgNews/tree/master/public/images/logo.svg">
+   <img alt="IgNews" src="https://github.com/rogersene/IgNews/tree/master/public/images/logo.png">
 </h1>
 
    <p align="center">
-      <img alt="proffy-2" src="https://github.com/rogersene/IgNews/tree/master/public/images/logo.svg" width="30%">
+      <img alt="proffy-2" src="https://github.com/rogersene/IgNews/tree/master/public/images/logo.png" width="30%">
    </p>
 
 
