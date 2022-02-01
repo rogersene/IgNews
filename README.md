@@ -3,7 +3,7 @@
 </h1>
 
    <p align="center">
-      <img alt="proffy-2" src="https://github.com/rogersene/IgNews/tree/master/public/images/logo.png" width="30%">
+      <img alt="proffy-2" src="https://github.com/rogersene/plataformaEstudosProffy/blob/master/public/images/mockup.png" width="30%">
    </p>
 
 
