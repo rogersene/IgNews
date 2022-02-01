@@ -43,8 +43,10 @@ As postagens são feitas pelo painel do Prismic CMS e integradas diretamente pel
 </p>
 <br>
 
+<p align="center">
+   <h1>Página HOME</h1>
   <img alt="Home" src="https://github.com/rogersene/IgNews/blob/master/public/images/Layout/Ignews%20Home.png" width="80%">
-
+</p>
 <br>
 <p align="center">
     Página Preview das Postagens do Blog
