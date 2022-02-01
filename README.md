@@ -39,15 +39,19 @@ As postagens são feitas pelo painel do Prismic CMS e integradas diretamente pel
 
 
 <p align="center">
+  Página HOME
   <img alt="Home" src="https://github.com/rogersene/IgNews/blob/master/public/images/Layout/Ignews%20Home.png" width="80%">
 </p>
 <p align="center">
+    Página Preview das Postagens do Blog
   <img alt="Preview Post" src="https://github.com/rogersene/IgNews/blob/master/public/images/Layout/PreviewReadPost.png" width="80%">
 </p>
 <p align="center">
+    Página de leitura dos posts para os inscritos válidos.
   <img alt="ReadPost" src="https://github.com/rogersene/IgNews/blob/master/public/images/Layout/ReadPost.png" width="80%">
 </p>
 <p align="center">
+  Página de checkout de pagamento.
   <img alt="Checkout Stripe" src="https://github.com/rogersene/IgNews/blob/master/public/images/Layout/Stripe.png" width="80%">
 </p>
 
